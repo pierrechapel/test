@@ -8,3 +8,4 @@ je rerebidouille sur vscode
 
 je bidouille de mon fabuleux compte pierretipe
 
+je peux rebidouiller de mon compte principal puis commit et push
